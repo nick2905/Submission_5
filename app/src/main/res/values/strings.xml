@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Submission_5</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tvshow">TV Show</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="change_language_settings">Change Language Setting</string>
+    <string name="gambar_poster">Gambar</string>
+    <string name="name_movie">Nama Film</string>
+    <string name="lorem">lorem ipsum</string>
+    <string name="add_to_favorite">Add To Favorite</string>
+    <string name="unsellect_from_favorite">Unsellect From Favorite</string>
+    <string name="success_add">Has Been Add To Favorite</string>
+    <string name="failed_add">Failed to add into Favorite</string>
+    <string name="done_add">You have added this into Favorite</string>
+    <string name="delete_success">Successfully remove the item</string>
+    <string name="remove_failed">Failed to remove the item</string>
+    <string name="empty_data">Data is Empty!</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="favorite">Favorite</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="search_tvshow">Search TVShow</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_reminder">Release reminder</string>
+    <string name="daily_reminder_every_7_am">Daily reminder every 7 am</string>
+    <string name="reminding_of_films_released_every_day">Reminder of films released every day</string>
+    <string name="daily_has_on">Daily reminder has turn on</string>
+    <string name="daily_has_off">Daily reminder has turn off</string>
+    <string name="release_has_on">Release reminder has turn on</string>
+    <string name="release_has_off">Release reminder has turn off</string>
+    <string name="appwidget_text">Favorite Banner</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">No Data</string>
+    <string name="reminder">Reminder</string>
+    <string name="heyLook">Hey! Looked!</string>
+</resources>

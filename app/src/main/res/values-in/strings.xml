@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Submission_5</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragment Kosong</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tvshow">Acara TV</string>
+    <string name="title_favorite">Kegemaran</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="gambar_poster">Gambar</string>
+    <string name="name_movie">Nama Film</string>
+    <string name="lorem">lorem ipsum</string>
+    <string name="add_to_favorite">Menambah Ke dalam Kesukaan</string>
+    <string name="unsellect_from_favorite">menghapus dari kesukaan</string>
+    <string name="success_add">Sukses ditambahkan ke Kesukaan</string>
+    <string name="failed_add">Gagal ditambahkan ke dalam Kesukaan</string>
+    <string name="done_add">Kamus sudah menambahkan ke dalam kesukaan sebelumnya</string>
+    <string name="delete_success">Sukses menghapus dari kesukaan</string>
+    <string name="remove_failed">Gagal menghapus bagian ini</string>
+    <string name="empty_data">Data kosong</string>
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara TV</string>
+    <string name="favorite">Kesukaan</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="search_tvshow">Cari Acara TV</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+    <string name="daily_reminder_every_7_am">Pengingat harian tiap pukul 7 pagi</string>
+    <string name="reminding_of_films_released_every_day">Pengingat harian yang rilis tiap harinya</string>
+    <string name="daily_has_on">Pengingat harian dinyalakan</string>
+    <string name="daily_has_off">Pengingat harian dimatikan</string>
+    <string name="release_has_on">Pengingat release film dinyalakan</string>
+    <string name="release_has_off">Pengingat release film dimatikan</string>
+    <string name="appwidget_text">Banner Kesukaan</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">Tidak Ada Data</string>
+    <string name="reminder">Pengingat</string>
+</resources>
